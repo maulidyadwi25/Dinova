@@ -46,6 +46,18 @@
     color: white;
     background-color: #683987;
 }
+.bg-roundedfooter{
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 100%;
+    color: #683987;
+    background-color: white;
+}
+.bg-roundedfooter:hover{
+    border-radius: 100%;
+    color: #683987;
+    background-color: white;
+}
 /* .text-neutral-900{
     color: rgb(23 23 23);
 } */
