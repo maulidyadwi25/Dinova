@@ -37,9 +37,11 @@ html {
     color: white !important;
 }
 .hovereffect:active{
-    -webkit-box-shadow: -4px 9px 69px -1px rgba(104,57,135,1);
-    -moz-box-shadow: -4px 9px 69px -1px rgba(104,57,135,1);
-    box-shadow: -4px 9px 69px -1px rgba(104,57,135,1);
+    background-color: white !important;
+    color: #8e62a9;
+    box-shadow: 10px 11px 40px -5px rgba(142,98,169,0.88);
+-webkit-box-shadow: 10px 11px 40px -5px rgba(142,98,169,0.88);
+-moz-box-shadow: 10px 11px 40px -5px rgba(142,98,169,0.88);
 }
 .btn-slider:hover {
     box-shadow: none;
