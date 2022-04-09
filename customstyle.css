@@ -1,6 +1,11 @@
 /* .bg-neutral700{
     background-color: rgb(64 64 64) !important;
 } */
+@media (max-width: 768px) {  
+    .mb-n18{
+        margin-bottom: 0 !important;
+    }    
+}
 html {
     scroll-behavior: smooth;
 }
