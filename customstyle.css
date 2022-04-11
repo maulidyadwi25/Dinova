@@ -6,6 +6,11 @@
         margin-bottom: 0 !important;
     }    
 }
+@media (min-width:768px){
+    w-md-120{
+        width:120% !important;
+    }
+}
 html {
     scroll-behavior: smooth;
 }
