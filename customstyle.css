@@ -2,3 +2,10 @@
     font-size: 50px !important;
     color: #56A9C8;
 }
+.style-image{
+    width: 400px;
+    height: 500px;
+}
+.height-190px{
+    height: 190px !important;
+}
